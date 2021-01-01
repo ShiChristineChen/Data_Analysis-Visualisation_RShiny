@@ -1,4 +1,4 @@
-# Data_Analysis-Visualisation_RShiny
+# Data_Analysis-EDA-Visualisation_RShiny
 Using R Shiny to assist the Exploratory Data Analysis (EDA)
 ## Purpose
 1. Analysis the data, identify the patterns (distribution, missing values, outliers, correlationship etc.) and the trends, 
